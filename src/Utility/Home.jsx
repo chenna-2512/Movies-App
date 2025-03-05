@@ -1,4 +1,3 @@
-import { useNavigate } from "react-router-dom";
 import { telugu } from "../Components/telugu";
 import Movies from "./Movies";
 const Home = () => {
